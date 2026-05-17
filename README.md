@@ -37,9 +37,11 @@ I build mechanics that *carry* mood, UI that whispers, and systems that make wor
 **Status:** active — prototyping narrative branching & C++ gameplay systems  
 **Focus:** moral ambiguity, psychological pressure, UI flow.
 
-### 🌲 Old Rus — libGDX — *2D folklore*  
-**Status:** prototyping mechanics & 2D systems  
-**Focus:** interaction logic, core loop, atmospheric presentation
+### 🌲 MORENA2 — libGDX — *2D folklore*  
+
+### THE CHOSENS - UE5 (Team) 
+**Status:** not started - difficulties with idea, goal, and mechanics.
+**Focus:** don't know, time will tell.
 
 ---
 
