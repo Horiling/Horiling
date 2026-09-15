@@ -34,7 +34,7 @@ Right now my main focus is split into two directions:
 ### Ages Unwritten
 A long-term game/simulation concept focused on:
 
-- procedural planets
+- procedural generation planets
 - terrain and erosion
 - climate and biome logic
 - civilizations evolving through time
@@ -56,21 +56,6 @@ Built as a long-term technical sandbox to better understand:
 - game tech workflows
 
 **Focus:** learning by building, not just using tools.
-
----
-
-### Rus 870
-A **2D libGDX / Kotlin** game project set in **9th–10th century Rus'**.
-
-Includes work on:
-
-- gameplay systems
-- UI
-- NPC logic
-- inventory and interaction systems
-- map/world structure
-
-**Focus:** small-scope development, structure, and finishing systems step by step.
 
 ---
 
@@ -139,5 +124,5 @@ If you're visiting my profile, the main things that define me are:
 ---
 
 <p align="center">
-  <i>“Build the game. Build the systems. Keep moving.”</i>
+  <i>“Be yourself.”</i>
 </p>
